@@ -17,3 +17,13 @@ This project uses LSTM neural networks for stock price prediction, trading signa
 
 ## Running
 Open the Jupyter notebook and run cells sequentially.
+
+## Dataset
+
+The datasets were too large to upload to GitHub.
+
+Please place:
+- data_nasdaq_csv.zip
+- data-vn-20230228.zip
+
+inside the project directory before running the notebook.
